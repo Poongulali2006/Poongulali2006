@@ -17,44 +17,20 @@
 
 ## 🧑‍💻 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
+<img align="right" width="340" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```javascript
-const poongulali = {
-  name:     "Poongulali G",
-  location: "Tamil Nadu, India 🇮🇳",
-  degree:   "B.Tech Information Technology (2023–2027)",
-  college:  "K.S.Rangasamy College of Technology",
-  cgpa:     8.5,
+### 👋 Hi, I'm Poongulali!
 
-  stack: [
-    "Java", "JavaScript", "Python", "C", "Go",
-    "React Native", "Node.js", "REST API", "TensorFlow Lite"
-  ],
+> 🎓 B.Tech IT @ K.S.Rangasamy College of Technology *(2023–2027)* &nbsp;|&nbsp; CGPA: **8.5**
+> 📍 Tamil Nadu, India &nbsp;|&nbsp; 📬 Open to **Software Engineering Internships**
 
-  databases:  ["MySQL", "MongoDB", "PostgreSQL"],
-  cloud:      ["Zscaler Zero Trust", "Oracle Cloud Infrastructure"],
-  tools:      ["GitHub", "VS Code", "Postman"],
+I'm a **full-stack developer** and **cloud security enthusiast** who loves building impactful products — from AI-powered safety apps to Zero Trust security systems.
 
-  currentlyLearning: [
-    "System Design",
-    "Go (Golang)",
-    "Advanced Cloud Security",
-    "LLM / GenAI Integrations"
-  ],
-
-  achievements: [
-    "🏆 IEEE DevSpark 24-Hr Hackathon Winner",
-    "🥇 Women STEM Hackathon First Prize",
-    "✅ Smart India Hackathon 2025 Qualified",
-    "🎗️ Best NSS Volunteer Award"
-  ],
-
-  funFact: "I build apps that fight cybercrime — and win hackathons doing it 🚀",
-
-  motto: () => "Ship fast. Learn faster. Impact forever."
-};
-```
+- 🏆 **2× Hackathon Winner** — IEEE DevSpark & Women STEM Hackathon
+- ☁️ **Cloud Security Intern** @ Zscaler Technologies (AICTE)
+- 🔐 Certified in **Oracle GenAI** & **Zscaler Zero Trust (ZTCA)**
+- 🌱 Currently exploring **System Design**, **Go**, and **GenAI/LLM integrations**
+- ⚡ Fun fact: I built an app that detects phishing attacks in real time — and won a hackathon with it 🚀
 
 <br clear="right"/>
 
@@ -199,24 +175,34 @@ const poongulali = {
 ## 🎓 Education
 
 <div align="center">
+<br/>
 
-| Degree | Institution | Duration | Score |
-|:------:|:-----------:|:--------:|:-----:|
-| B.Tech Information Technology | K.S.Rangasamy College of Technology, Tiruchengode | 2023 – 2027 | CGPA: **8.5** |
+[![University](https://img.shields.io/badge/🏛️%20K.S.Rangasamy%20College%20of%20Technology-Tiruchengode-70a5fd?style=for-the-badge&labelColor=0d1117)](https://www.ksrct.ac.in)
+&nbsp;
+[![Degree](https://img.shields.io/badge/🎓%20B.Tech-Information%20Technology-bf91f3?style=for-the-badge&labelColor=0d1117)]()
+&nbsp;
+[![Year](https://img.shields.io/badge/📅%20Batch-2023%20–%202027-38bdae?style=for-the-badge&labelColor=0d1117)]()
+&nbsp;
+[![CGPA](https://img.shields.io/badge/⭐%20CGPA-8.5%20%2F%2010-f0c040?style=for-the-badge&labelColor=0d1117)]()
 
+<br/>
 </div>
 
 ---
 
 ## 📚 Currently Learning
 
-```
-🔧 System Design         →  Distributed Systems, Scalability, HLD/LLD
-🐹 Go (Golang)           →  Concurrency, REST APIs, CLI Tools
-☁️  Advanced Cloud Sec   →  Zero Trust Architecture, SASE, AI-Driven SOC
-🤖 GenAI / LLMs          →  Prompt Engineering, RAG, LLM API Integrations
-🧮 Competitive Coding    →  Advanced DSA, Graph Algorithms, DP Patterns
-```
+<div align="center">
+
+| &nbsp; | Skill | Topics |
+|:------:|:------|:-------|
+| ![](https://img.shields.io/badge/-System%20Design-70a5fd?style=flat-square&logo=buffer&logoColor=white) | **System Design** | Distributed Systems · Scalability · HLD/LLD |
+| ![](https://img.shields.io/badge/-Go%20%28Golang%29-00ADD8?style=flat-square&logo=go&logoColor=white) | **Go (Golang)** | Concurrency · REST APIs · CLI Tools |
+| ![](https://img.shields.io/badge/-Cloud%20Security-005DAA?style=flat-square&logo=zscaler&logoColor=white) | **Advanced Cloud Security** | Zero Trust Architecture · SASE · AI-Driven SOC |
+| ![](https://img.shields.io/badge/-GenAI%20%2F%20LLMs-bf91f3?style=flat-square&logo=openai&logoColor=white) | **GenAI / LLMs** | Prompt Engineering · RAG · LLM API Integrations |
+| ![](https://img.shields.io/badge/-Competitive%20Coding-38bdae?style=flat-square&logo=leetcode&logoColor=white) | **Competitive Coding** | Advanced DSA · Graph Algorithms · DP Patterns |
+
+</div>
 
 ---
 
